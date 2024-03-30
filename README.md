@@ -2,4 +2,4 @@
 
 This is just an edit of a podcast from huberman labs.
 
-![https://github.com/RehanaAktar152/Growth-Hormone-Edit/blob/main/Growth-Hormone-Release.mp4]
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
