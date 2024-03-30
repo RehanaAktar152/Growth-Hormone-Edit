@@ -1,3 +1,5 @@
-.. raw:: html
+# Growth Hormone Edit
 
-<video controls height="50" src="https://github.com/RehanaAktar152/Growth-Hormone-Edit/raw/main/Growth-Hormone-Release.mp4"></video>
+This is just an edit of a podcast from huberman labs.
+
+https://github.com/RehanaAktar152/Growth-Hormone-Edit/raw/main/Growth-Hormone-Release.mp4
